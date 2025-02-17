@@ -1,26 +1,13 @@
-# nisway-addressbook
-
- Technology
-
-Laravel : 8.X
-Database : Mysql db
-
+Technology Stack
+Framework: Laravel 8.X
+Database: MySQL
 Database Name: nisway
-
-Developed by veenamol v
-
-Recommended PHP Version 5.6.3 and Newer
-
-Admin Login Details
-
+Developed by: Veenamol V
+Recommended PHP Version: 5.6.3 or newer
+Admin Login Credentials
 Username: niswayadmin@hopmail.com
-
-
 Password: nisway@2025#
-
-
-github project account
-
-https://github.com/veenavidhu/nisway-addressbook.git
-
-Database  file is included in DATABASE nisway.sql is the file name
+Project Repository
+GitHub: https://github.com/veenavidhu/nisway-addressbook.git
+Database File
+The database schema is included in the file: nisway.sql
