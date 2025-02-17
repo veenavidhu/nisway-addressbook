@@ -23,4 +23,4 @@ github project account
 
 https://github.com/veenavidhu/nisway-addressbook.git
 
-Database zip file is included in DATABASE FILE folder.nisway.sql is the file name
+Database zip file is included in DATABASE nisway.sql is the file name
